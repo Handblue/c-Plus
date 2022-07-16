@@ -1,2 +1,2 @@
-# c-Plus
+# C Plus
 C++ Örnekleri ve çalışmalarım
